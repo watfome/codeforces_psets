@@ -4,3 +4,4 @@ if (w >= 0) and (w <= 100):
         print("YES")
     else:
         print("NO")
+print("another check")
